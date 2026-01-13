@@ -12,12 +12,12 @@ public class ejercicio1 {
         int num = sc.nextInt();
 
         if (num % 2 == 0) {
-            System.out.println("El número es PAR");
+            System.out.println("El número es pAR");
         } else {
-            System.out.println("El número es IMPAR");
+            System.out.println("El número es iMPAR");
         }
         
-        System.out.println("Hola.");
+        System.out.println("Hola");
 
         sc.close();
 	}
